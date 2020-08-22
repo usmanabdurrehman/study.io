@@ -1,0 +1,8 @@
+.txtarea{
+	border-radius:0 50px 50px 0;
+	width:100%;
+	padding:10px;
+	border-style:solid;
+	border-color: #007bff;
+	border-width: 1.4px;
+}

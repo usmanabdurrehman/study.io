@@ -1,0 +1,9 @@
+#tips>li{
+	line-height: 25px;
+}
+
+#tips{
+	/*list-style-type: "=>";*/
+	/*list-style-image: url(images/bullets.png);*/
+	margin-top: 10px;
+}

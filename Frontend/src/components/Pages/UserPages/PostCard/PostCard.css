@@ -1,0 +1,53 @@
+@media (max-width:992px){
+	.nameHandle{
+		margin-top: 10px;
+	}
+}
+
+.MuiButtonBase-root{
+	margin-top:-6px !important;
+	/*margin-right: 0 !important;*/
+}
+
+.makeStyles-menuButton-192{
+	/*margin-right:0 !important;*/
+}
+
+.MuiOutlinedInput-input {
+   padding: 10px !important;
+}
+
+.MuiInputBase-input{
+	/*padding:10px !important;*/
+}
+
+.comment-input{
+	border-color:#007bff;
+}
+
+/*.comment-input:focus{
+	border-color:#6610f2;
+}*/
+
+.nameplate{
+	background-color:#007bff;
+}
+
+.comment{
+	background-color:#007bff;
+	color:white;
+	padding:8px;
+	border-radius: 0 30px 30px 0;
+	margin-top:5px;
+	margin-bottom: 5px; 
+}
+
+.commenter{
+	background-color: #2e25d7;
+	padding:4px;
+	border-radius: 5px;
+}
+
+.classBody{
+	padding:4px;
+}

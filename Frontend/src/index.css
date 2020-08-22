@@ -1,0 +1,37 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.form-control{
+	box-shadow: 0 0 0 !important;
+	border-radius: 0 !important;
+}
+
+.alert{
+	font-size: 14px !important;
+}
+
+body,p,button,input,textarea{
+	font-size: 14px !important;
+}
+
+.borderBottom{
+	border-color:white;
+	border-bottom-color:lightgray;
+}
+
+.borderBottom:focus{
+	border-color:white;
+	border-bottom-color: #007bff; 
+}
+
+/* .container{
+	width:60%;
+}
+
+@media(max-width: 1026px){
+	.container{
+		width:100%;
+	}
+} */

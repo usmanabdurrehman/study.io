@@ -1,0 +1,34 @@
+#profile{
+	position: relative;
+	bottom: 75px;
+}
+
+#profilePic{
+	border-radius: 20px;
+	height:150px;
+	width:150px;
+}
+
+#coverImage{
+	border-radius:0 0 20px 20px;
+}
+
+.file:hover{
+	background-color: #f4f4f4;
+	transition: 0.5s;
+}
+
+@media (max-width:960px){
+	#profilePic{
+		height:75px;
+		width: 75px;
+	}
+	#profile{
+		bottom:37px;
+	}
+	.nameHandle{
+		margin-top: 10px;
+	}
+}
+
+/*Media Queries for profile pic adjustment*/
